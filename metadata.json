@@ -1,0 +1,5 @@
+{
+  "name": "Image Watermarker",
+  "description": "A client-side tool to add customizable text watermarks to your images. Upload an image and adjust settings like text, color, font, opacity, and density for the perfect watermark.",
+  "requestFramePermissions": []
+}
